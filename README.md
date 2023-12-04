@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning about #LIFE #BIG #IKHLAS
 - 👯 I’m looking to collaborate on project that buggle my mind lately : Machnine Learning & GIS Spatial & Non Spatial Big Data
-- 💬 Ask me about computer 
+- 💬 Ask me about computer, games, and swimming 🏊
 - 📫 How to reach me: on Social Media, Linkedin and Instagram
 - 😄 Pronouns: Gavin, Vin, etc
 
