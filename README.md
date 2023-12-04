@@ -9,5 +9,5 @@
 ---
 📈 my github stats:
 
-| <a href="https://github.com/mohgavin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohgavin&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="mohgavin stats" /></a> | <a href="https://github.com/mohgavin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohgavin&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/mohgavin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohgavin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="mohgavin stats" /></a> | <a href="https://github.com/mohgavin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohgavin&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
